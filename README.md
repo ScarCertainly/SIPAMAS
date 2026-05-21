@@ -6,8 +6,8 @@ SIPAMAS adalah aplikasi web pengaduan masyarakat berbasis Laravel yang digunakan
 
 Gunakan akun berikut untuk login sebagai admin:
 
-- Email: `alifreinhartabdullah@gmail.com`
-- Password: `alif2123`
+- Email: `redacted`
+- Password: `redacted`
 
 Halaman login:
 - `/login`
